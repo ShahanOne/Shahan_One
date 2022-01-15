@@ -5,7 +5,9 @@ body {
   background-color: #BFD8B8;
   scroll-behavior: smooth;
 }
-
+img{
+  border-radius: 50%;
+}
 h1 { color:  #66BFBF;
   margin: 0 auto 0;
   font-family: 'Sacramento', cursive;
